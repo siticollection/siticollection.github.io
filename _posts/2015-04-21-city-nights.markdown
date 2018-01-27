@@ -1,14 +1,16 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+title:  "siti collections."
+subtitle: "Fashion islamic wanita."
+author: "Rido"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### siti collections
+Fashion Hijab tengah merebak di masyarakat. Para muslimah kini lebih leluasa untuk bergaya menggunakan hijab dan busana muslim wanita dengan aneka bentuk dan model yang beragam. siti collections hadir sebagai Islamic fashion pertama di Bengkalis,tempat untuk belanja berbagai baju muslim wanita. Melalui siti collections , kamu bisa melihat, memilih dan membeli berbagai item fashion scarf, jilbab, kerudung, mukena dan lain lain yang pas dengan seleramu.
+
+siti collections menjual berbagai pakaian muslim wanita seperti atasan kaos lengan pendek dan tunik, luaran seperti jaket dan rompi, bawahan seperti rok dan celana, hingga berbagai model dress dan scarf. Semua item ini bisa kamu pilih dengan mendatangi Toko siti collections yang beralamat di jalan Pramuka depan workshop Bengkalis
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
